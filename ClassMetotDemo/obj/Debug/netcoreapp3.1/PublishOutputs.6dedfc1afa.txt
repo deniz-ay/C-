@@ -1,0 +1,5 @@
+C:\Users\UTP\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\publish\ClassMetotDemo.exe
+C:\Users\UTP\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\publish\ClassMetotDemo.dll
+C:\Users\UTP\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\publish\ClassMetotDemo.deps.json
+C:\Users\UTP\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\publish\ClassMetotDemo.runtimeconfig.json
+C:\Users\UTP\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\publish\ClassMetotDemo.pdb
